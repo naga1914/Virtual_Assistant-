@@ -1,1 +1,1 @@
-# NgeniusAI
+# NGeniusAI
