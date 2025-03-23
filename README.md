@@ -32,7 +32,7 @@ An AI-powered virtual assistant that greets users, responds to voice commands, p
 ![Virtual Assistant UI](screenshot.png)  
 
 ## 🔗 Live Demo  
-[Click Here to Try](https://yourwebsite.com)  
+[Click Here to Try](https://virtual-assistant-lake.vercel.app/)  
 
 ## 📂 Project Setup  
 1. Clone the repository:  
